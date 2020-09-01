@@ -1,0 +1,11 @@
+name spreadsheet the name of the SQL file
+save as sql
+-needs to save the text "NULL" as the value rather than a string
+-make syntax more intuitive
+add to troubleshooting.txt: where to put bug reports
+output log?
+convert between sql and csv
+read until comma/semicolon/paren instead of by line
+file picker
+excel gui options (keybinds?)
+on download: give option to have fields in primary key be out of order (currently assumes they're in order)
